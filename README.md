@@ -25,6 +25,4 @@ This project was initially created in Python 3.12. In order to run the project, 
 * [notebook](https://pypi.org/project/notebook/)
 * [ipywidgets](https://pypi.org/project/ipywidgets/)
 
-A requirements.txt file containing all the project dependencies is provided as part of this repo.
-
 
