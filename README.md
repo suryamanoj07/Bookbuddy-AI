@@ -1,5 +1,9 @@
 Semantic Book Recommender with LLMs 
 
+1. You can install or clone the repository
+2. Run "python gradio-dashboard.py" in terminal
+3. Projects opens in your localhost
+
 The below screenshot is showing the sports related books recommended by llm in Non-fiction genre and suspenseful tone
 <img width="1825" height="734" alt="image" src="https://github.com/user-attachments/assets/e56a47e3-7a02-470e-b47e-a8918e1e6ca7" />
 
