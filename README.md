@@ -1,7 +1,10 @@
 Semantic Book Recommender with LLMs 
 
+The below screenshot is showing the sports related books recommended by llm in Non-fiction genre and suspenseful tone
 <img width="1825" height="734" alt="image" src="https://github.com/user-attachments/assets/e56a47e3-7a02-470e-b47e-a8918e1e6ca7" />
 
+
+The below screenshot is showing the brave king novels recommended by llm in Non-fiction genre and angry tone
 <img width="1827" height="726" alt="image" src="https://github.com/user-attachments/assets/5053ce00-9384-4110-8d36-4ed955e4457d" />
 
 
